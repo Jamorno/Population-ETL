@@ -1,0 +1,6 @@
+2025-05-24 19:35:07,538 [INFO] Data extracted from API
+2025-05-24 19:35:07,540 [INFO] Transformed 11 records.
+2025-05-24 19:35:07,555 [INFO] Loaded data to postgreSQL.
+2025-05-24 19:35:07,565 [INFO] Exported summary to summary_population.csv
+2025-05-24 19:35:07,565 [INFO] ETL process completed.
+2025-05-24 19:35:07,565 [INFO] ..............................................................................
