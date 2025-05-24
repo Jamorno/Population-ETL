@@ -37,7 +37,7 @@ This ETL (Extract, Transform, Load) pipeline fetches U.S. population data from a
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/Jamorno/COVID-19-Tracker-ETL.git
+git clone https://github.com/Jamorno/Population-ETL.git
 cd COVID-19-Tracker-ETL
 
 # 2. Set up a virtual environment
